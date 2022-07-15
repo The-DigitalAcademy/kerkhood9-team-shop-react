@@ -6,7 +6,7 @@ function App() {
       style={{
         backgroundColor: 'blue',
         width: '100px',
-        height: '100px'
+        height: '100px',
       }}
     />
   );
