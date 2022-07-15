@@ -5,3 +5,8 @@
 .color {
   color: #FFFF00;
 }
+
+.size {
+  height: 20;
+  width: 20;
+}
